@@ -6,6 +6,6 @@ int c = n % 100 / 10;
 int d = n % 10;
 Console.WriteLine($"Сумма цифр:{a + b + c + d}");
 Console.WriteLine($"Произведение цифр:{a*b*c*d}");
-
+sdadadad
 
 
